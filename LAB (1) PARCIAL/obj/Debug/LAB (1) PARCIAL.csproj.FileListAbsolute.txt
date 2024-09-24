@@ -1,0 +1,7 @@
+C:\Users\endor\source\repos\LAB (1) PARCIAL\bin\Debug\LAB (1) PARCIAL.exe.config
+C:\Users\endor\source\repos\LAB (1) PARCIAL\bin\Debug\LAB (1) PARCIAL.exe
+C:\Users\endor\source\repos\LAB (1) PARCIAL\bin\Debug\LAB (1) PARCIAL.pdb
+C:\Users\endor\source\repos\LAB (1) PARCIAL\obj\Debug\LAB (1) PARCIAL.csproj.AssemblyReference.cache
+C:\Users\endor\source\repos\LAB (1) PARCIAL\obj\Debug\LAB (1) PARCIAL.csproj.CoreCompileInputs.cache
+C:\Users\endor\source\repos\LAB (1) PARCIAL\obj\Debug\LAB (1) PARCIAL.exe
+C:\Users\endor\source\repos\LAB (1) PARCIAL\obj\Debug\LAB (1) PARCIAL.pdb
